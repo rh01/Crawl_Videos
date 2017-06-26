@@ -16,10 +16,17 @@ click **抓取视频** --
 
 ![](https://ooo.0o0.ooo/2017/06/26/59511ef8e4d59.png)
 
+![](https://ooo.0o0.ooo/2017/06/26/5951201345108.png)
 ## requirement
 
 * PyCharm
 * Python=3.5.2
+    - Tkinter(default)
+    - threading
+    - requests
+    - urllib
+    - sys
+    - re
 
 ## Steps
 
