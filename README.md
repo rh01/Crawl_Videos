@@ -1,15 +1,3 @@
-<div class="alert alert-block alert-info" style="margin-top: 20px">
-
-**Note:** Our Notebooks support Python, R, Scala and other languages. In these tutorials, we assume you have a basic familiarity with the [Python Programming Language](https://docs.python.org/3/)
-
-If you need more background information, we recommend these popular websites:
-
-<ul>
-<li> [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
-<li> [Using IPython for interactive work](http://ipython.readthedocs.org/en/stable/interactive/index.html)
-</ul>
-</div>
-
 本教程主要对 [百思不得姐](https://www.budejie.com) 视频网站进行爬取视频，并且利用GUI编程创建可视化的窗口界面。用于显示抓取的状态信息和内容。
 
 ## Priciple Of Spider
