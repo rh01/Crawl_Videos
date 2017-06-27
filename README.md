@@ -1,4 +1,6 @@
-<div class="alert alert-block alert-info" style="margin-top: 20px">**Note:** Our Notebooks support Python, R, Scala and other languages. In these tutorials, we assume you have a basic familiarity with the [Python Programming Language](https://docs.python.org/3/)
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+**Note:** Our Notebooks support Python, R, Scala and other languages. In these tutorials, we assume you have a basic familiarity with the [Python Programming Language](https://docs.python.org/3/)
 
 If you need more background information, we recommend these popular websites:
 
